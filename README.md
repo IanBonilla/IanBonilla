@@ -1,16 +1,61 @@
-## Hi there 👋
+# 👋 Hi, I'm Ian
 
-<!--
-**IanBonilla/IanBonilla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Computer Science & Software Engineering student at
+Universidad Rey Juan Carlos, with a background in Web Application Development.
 
-Here are some ideas to get you started:
+Currently, I'm developing my skills through university, personal projects
+and professional experience in web development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 Technologies
+
+- TypeScript
+- JavaScript
+- React
+- Node.js
+- Java
+- Spring Boot
+- PostgreSQL
+- Prisma
+- HTML / CSS
+- Git / GitHub
+
+## 🚀 Projects
+
+### 🎮 Xyron — Video Game Platform
+
+Full-Stack web platform inspired by Steam and Eneba.
+
+- Spring Boot
+- Java
+- REST APIs
+- Stripe
+- JWT
+- MySQL
+- JavaScript
+
+### 🖥️ Bizarre Desktop
+
+Interactive JoJo's Bizarre Adventure wiki presented as a
+simulated desktop environment.
+
+- HTML
+- CSS
+- JavaScript
+- JSON
+- Responsive design
+- 3D model integration
+
+## 🎯 Interests
+
+I'm interested in software engineering and technically challenging systems.
+
+Although I currently have experience in web development, I would like
+to explore areas such as embedded systems, low-level software and
+technologies that combine software and hardware.
+
+## 📚 Currently learning
+
+- Computer Science
+- Software Engineering
+- Mathematics
+- Computer Systems
