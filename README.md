@@ -8,22 +8,19 @@ and professional experience in web development.
 
 ## 💻 Technologies
 
-- TypeScript
-- JavaScript
-- React
-- Node.js
-- Java
-- Spring Boot
-- PostgreSQL
-- Prisma
-- HTML / CSS
-- Git / GitHub
+**Frontend:** HTML · CSS · JavaScript · TypeScript · React
+
+**Backend:** Node.js · Java · Spring Boot · REST APIs
+
+**Databases:** PostgreSQL · MySQL · Prisma
+
+**Tools:** Git · GitHub
 
 ## 🚀 Projects
 
 ### 🎮 Xyron — Video Game Platform
 
-Full-Stack web platform inspired by Steam and Eneba.
+Full-Stack web platform developed as a team project, inspired by Steam and Eneba.
 
 - Spring Boot
 - Java
